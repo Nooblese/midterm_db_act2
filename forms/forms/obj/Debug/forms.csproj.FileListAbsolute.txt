@@ -1,0 +1,17 @@
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.csproj.AssemblyReference.cache
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.frmDelete.resources
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.frmLogin.resources
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.frmMain.resources
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.Properties.Resources.resources
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.csproj.GenerateResource.cache
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.csproj.CoreCompileInputs.cache
+D:\School Works\AppDev\forms\forms\bin\Debug\forms.exe.config
+D:\School Works\AppDev\forms\forms\bin\Debug\forms.exe
+D:\School Works\AppDev\forms\forms\bin\Debug\forms.pdb
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.exe
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.pdb
+D:\School Works\AppDev\forms\forms\bin\Debug\System.Data.OleDb.dll
+D:\School Works\AppDev\forms\forms\bin\Debug\System.Data.OleDb.xml
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.csproj.Up2Date
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.frmAdd.resources
+D:\School Works\AppDev\forms\forms\obj\Debug\forms.frmEdit.resources
